@@ -1,6 +1,6 @@
 ## Hi there, I am HemaSai Nelluri 👋
 
-#I am a Student!
+# I am a Student!
 
 - 🌱 I’m currently learning A.I and ML
 - 🦾 2022 Goals : Data Structures And Algorithms
